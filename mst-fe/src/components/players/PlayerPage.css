@@ -1,0 +1,18 @@
+.container{
+  padding-top: 100px;
+}
+.header{
+  margin-bottom: 50px;
+}
+.header-two{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.header-modal{
+  text-align:center;
+  
+}
+.form-section{
+  margin-top: 20px;
+}
